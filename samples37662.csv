@@ -1,0 +1,10 @@
+samples,file1,file2,group,batch
+wtbgi1,372662WT-2.read1_Clean.fastq.gz,372662WT-2.read2_Clean.fastq.gz,wt,1
+rm1bgi1,372662RM1-1.read1_Clean.fastq.gz,372662RM1-1.read2_Clean.fastq.gz,rm1,1
+rm2bgi1,372662RM2-1.read1_Clean.fastq.gz,372662RM2-1.read2_Clean.fastq.gz,rm2,1
+wtapt2,WT1.R1.fastq.gz,WT1.R2.fastq.gz,wt,2
+rm1apt2,RM11.R1.fastq.gz,RM11.R2.fastq.gz,rm1,2
+rm2apt2,RM21.R1.fastq.gz,RM21.R2.fastq.gz,rm2,2
+wtapt3,WT2.R1.fastq.gz,WT2.R2.fastq.gz,wt,2
+rm1apt3,RM12.R1.fastq.gz,RM12.R2.fastq.gz,rm1,2
+rm2apt3,RM22.R1.fastq.gz,RM22.R2.fastq.gz,rm2,2
